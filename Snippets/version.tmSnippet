@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\version "`$TM_LILYPOND --version | head -1 | awk '{print $3}'`"
+
+</string>
+	<key>name</key>
+	<string>version</string>
+	<key>scope</key>
+	<string>source.lilypond</string>
+	<key>tabTrigger</key>
+	<string>ver</string>
+	<key>uuid</key>
+	<string>D228972D-451F-45E0-BF55-9BC8D628E107</string>
+</dict>
+</plist>
