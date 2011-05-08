@@ -23,6 +23,7 @@
 	<string>LilyPond</string>
 	<key>ordering</key>
 	<array>
+		<string>854956BF-7B2C-425F-AE07-F79D8E3A15A7</string>
 		<string>F25B30BE-0526-4D92-806C-F0D678DDF669</string>
 		<string>C54C69BF-701D-445E-A433-102BEFCE20C7</string>
 		<string>70991DF0-7C6F-4B3D-AED4-2F9A56EAB687</string>
@@ -32,6 +33,7 @@
 		<string>E8B6A543-90A6-46A4-A307-B21B67EF7F2F</string>
 		<string>6F8F1607-8D59-4E4D-94D1-7565B4921B81</string>
 		<string>D228972D-451F-45E0-BF55-9BC8D628E107</string>
+		<string>EA68FCA3-B1BB-485F-A15B-DEC9DC135ABD</string>
 	</array>
 	<key>uuid</key>
 	<string>5D9846C9-EB37-4F56-BD7F-F3A6BF8846A0</string>
